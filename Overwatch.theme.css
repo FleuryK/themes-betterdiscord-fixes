@@ -1,4 +1,4 @@
-//META{"name":"Overwatch","description":"For all Overwatch lovers out there!","author":"Matt, Basshunter & FleuryK","version":"1.12"}*//
+//META{"name":"Overwatch","description":"For all Overwatch lovers out there!","author":"Matt, Basshunter & FleuryK","version":"1.13"}*//
 
 /*
 ##     ##    ###    ######## ######## ##     ##    ###    ########
@@ -153,12 +153,13 @@ textarea {
     border:2px solid rgba(47,37,38,1);
 }
 
-/* . {
+/* Not functionnal
+.container-iksrDt.flex-lFgbSz {
     background: #FAA02E;
     box-shadow: none !important;
     border: none;
     border-radius: 2px;
-} */
+}
 
 .container-iksrDt.flex-lFgbSz .btn:active {
     background: #FAA02E;
@@ -183,7 +184,7 @@ textarea {
     position:absolute;
     right:72px;
     top:75px;
-}
+} */
 
 .container-iksrDt .avatar-small {
     opacity:1;
