@@ -139,7 +139,7 @@ textarea {
 }
 
 /* Account and settings area */
-.account {
+.container-iksrDt {
     z-index: 9;
     border-top: 6px solid !important;
     background: transparent;
@@ -149,42 +149,43 @@ textarea {
     position: relative;
 }
 
-.account .status {
+.container-iksrDt .status {
     border:2px solid rgba(47,37,38,1);
 }
 
-.account .btn {
+/* . {
     background: #FAA02E;
-    box-shadow:none !important;
+    box-shadow: none !important;
     border: none;
+    border-radius: 2px;
+} */
+
+.container-iksrDt.flex-lFgbSz .btn:active {
+    background: #FAA02E;
 }
 
-.account .btn:active {
-    background:#FAA02E;
-}
-
-.account .btn-settings:after{
+.container-iksrDt.flex-lFgbSz .btn-settings:after {
     background-image: url(https://image000.flaticon.com/icons/svg/126/126472.svg);
     opacity: 0.5;
 }
 
-.account .btn-deafen,
-.account .btn-mute {
-    border-right:0px solid #000;
+.container-iksrDt.flex-lFgbSz .btn-deafen,
+.container-iksrDt.flex-lFgbSz .btn-mute {
+    border-right: 0px solid #000;
 }
 
-.account .btn-deafen, .account .btn-settings {
+.container-iksrDt.flex-lFgbSz .btn-deafen, .container-iksrDt.flex-lFgbSz .btn-settings {
     box-shadow:none !important;
 }
 
-.account .btn-group {
+.horizontal-2VE-Fw .btn-group {
     border:none;
     position:absolute;
     right:72px;
     top:75px;
 }
 
-.account .avatar-small {
+.container-iksrDt .avatar-small {
     opacity:1;
     right: -40px;
     top:-20px;
@@ -194,21 +195,21 @@ textarea {
     background-size: 100%;
 }
 
-.account .account-details {
+.accountDetails-15i-_e{
     padding-bottom: 38px;
     padding-left: 50px;
 }
 
-.account .account-details .username {
+.accountDetails-15i-_e .username {
     max-width: 100px !important;
     font-size: 15px;
 }
 
-.account .account-details .discriminator {
+.accountDetails-15i-_e .discriminator {
     font-size: 20px;
 }
 
-/* Vocie server info */
+/* Voice server info */
 #voice-connection {
     z-index: 9;
     border-top: 6px solid !important;
@@ -339,6 +340,7 @@ textarea {
 
 .ui-tab-bar.SIDE .ui-tab-bar-item.selected, .ui-tab-bar.SIDE .ui-tab-bar-item:active {
     background-color: transparent;
+    background: #ED7F10;
     border-left: 3px solid #7289da;
 }
 
@@ -462,6 +464,7 @@ textarea {
 .tab-bar.TOP .tab-bar-item {
     color:#b2b2b2;
 }
+
 .tab-bar.TOP .tab-bar-item:hover {
     color:#cccccc;
     border-color:#FCBD49;
@@ -800,4 +803,47 @@ input:focus {
 
 .CodeMirror-linenumber {
     color: #fff !important;
+}
+
+
+.container-RYiLUQ,
+.wrapper-2ldvyE,
+.private-channels .channel.selected a,
+.private-channels .channel:hover a {
+    background: transparent !important;
+}
+.contentHoveredText-2HYGIY,
+.contentHoveredVoice-3qGNKh:active,
+.contentSelectedVoice-gTtYM9:active,
+.containerDefault-7RImuF:hover {
+	background-color: rgba(250,160,46,0.5);
+}
+
+.wrapperSelectedText-31jJa8.wrapper-fDmxzK {
+	background-color: rgba(250,160,46,0.5);
+}
+
+.contentSelectedText-3j5CXt, .contentHoveredText-2HYGIY {
+	background: transparent !important;
+}
+
+.theme-light .flex-nowrap, .theme-dark .flex-nowrap {
+	color: #FFFFFF;
+}
+
+.unread-23Kvxk,
+.user-info-viewing-button,
+.buttonBrandFilledDefault-2Rs6u5,
+.buttonGreenFilledDefault-_lLQaz {
+	background:#FAA02E;
+	color: #000000;
+	font-weight: bold;
+}
+
+.user-info-viewing-button:hover,
+.buttonBrandFilledDefault-2Rs6u5:hover,
+.buttonGreenFilledDefault-_lLQaz:hover {
+	background: #ED7F10;
+	color: #000000;
+	font-weight: bold;
 }
