@@ -10,4 +10,12 @@ File updated for the new user interface "User Settings" updated on May 3rd, 2017
 
 # Update on June 9th, 2017
 <b>Overwatch.theme.css</b> :<br />
-File updated because Discord have updated CSS file on June 7th, 2017.
+File updated because Discord have updated CSS file on June 7th, 2017.<br /><br />
+
+# Update on June 15th, 2017
+<b>Cut_But_Deadly_Tracer.theme.css</b> : File Updated for reason above.<br />
+<b>Dark_Matter.theme.css</b> : File Updated for reason above.<br />
+<b>Red_n_Black.theme.css</b> : File Updated for reason above.<br />
+<b>Final_Fantasy_15.theme.css</b> : A theme about Final Fantasy 15 based on Dark Matter. File Updated for reason above.<br />
+<b>Sword_Art_Online.theme.css</b> : A theme about Sword Art Online based on Dark Matter. File Updated for reason above.<br />
+<b>Sepisnake.theme.css</b> : A theme about a deviantart Sepisnake based on Dark Matter. File Updated for reason above.
