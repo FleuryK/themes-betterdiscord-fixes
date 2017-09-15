@@ -24,4 +24,20 @@ A theme about Final Fantasy 15 based on Dark Matter. File Updated for reason abo
 <b>Sword_Art_Online.theme.css</b> :<br />
 A theme about Sword Art Online based on Dark Matter. File Updated for reason above.<br /><br />
 <b>Sepisnake.theme.css</b> :<br />
+A theme about a deviantart Sepisnake based on Dark Matter. File Updated for reason above.<br /><br />
+
+# Update on September 15th, 2017
+<b>Overwatch.theme.css</b> :<br />
+File updated because Discord have updated CSS file (tooltips).<br />
+<b>Cut_But_Deadly_Tracer.theme.css</b> :<br />
+File Updated for reason above.<br /><br />
+<b>Dark_Matter.theme.css</b> :<br />
+File Updated for reason above.<br /><br />
+<b>Red_n_Black.theme.css</b> :<br />
+File Updated for reason above.<br /><br />
+<b>Final_Fantasy_15.theme.css</b> :<br />
+A theme about Final Fantasy 15 based on Dark Matter. File Updated for reason above.<br /><br />
+<b>Sword_Art_Online.theme.css</b> :<br />
+A theme about Sword Art Online based on Dark Matter. File Updated for reason above.<br /><br />
+<b>Sepisnake.theme.css</b> :<br />
 A theme about a deviantart Sepisnake based on Dark Matter. File Updated for reason above.
