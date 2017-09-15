@@ -1651,3 +1651,22 @@ textarea {
 .contentSelectedVoice-gTtYM9:active{
     background-color: rgba(0,0,0,.3);
 }
+
+.tooltip.tooltip-black, .tooltip.tooltip-white {
+    background-color: #25ACE8;
+    color: #FFFFFF;
+    font-size: 0.75em;
+    opacity: 0.8;
+}
+
+.tooltip.tooltip-black.tooltip-right::after, .tooltip.tooltip-white.tooltip-right::after {
+    border-right-color: #25ACE8;
+    opacity: 0.8;
+    background: transparent;
+}
+
+.tooltip.tooltip-black.tooltip-top::after, .tooltip.tooltip-white.tooltip-top::after {
+    border-top-color: #25ACE8;
+    opacity: 0.8;
+    background: transparent;
+}

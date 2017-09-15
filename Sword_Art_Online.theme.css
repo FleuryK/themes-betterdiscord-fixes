@@ -13,7 +13,8 @@
 .app,
 .callout-backdrop {
 	/*background:url(https://partage.fleuryk.tk/pictures/SAO/274.png) !important;*/
-	background:url(https://partage.fleuryk.tk/pictures/SAO/081.jpg) !important;
+	/*background:url(https://partage.fleuryk.tk/pictures/SAO/363.png) !important;*/
+	background:url(https://partage.fleuryk.tk/pictures/SAO/343.png) !important;
 	background-size:cover !important;
 }
 
@@ -1651,4 +1652,23 @@ textarea {
 .contentHoveredVoice-3qGNKh:active, 
 .contentSelectedVoice-gTtYM9:active{
     background-color: rgba(0,0,0,.3);
+}
+
+.tooltip.tooltip-black, .tooltip.tooltip-white {
+    background-color: #25ACE8;
+    color: #FFFFFF;
+    font-size: 0.75em;
+    opacity: 0.8;
+}
+
+.tooltip.tooltip-black.tooltip-right::after, .tooltip.tooltip-white.tooltip-right::after {
+    border-right-color: #25ACE8;
+    opacity: 0.8;
+    background: transparent;
+}
+
+.tooltip.tooltip-black.tooltip-top::after, .tooltip.tooltip-white.tooltip-top::after {
+    border-top-color: #25ACE8;
+    opacity: 0.8;
+    background: transparent;
 }

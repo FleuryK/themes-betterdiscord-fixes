@@ -476,3 +476,22 @@ li.selected, span > div.selected, section > div > div > div > div > div.selected
 .contentSelectedVoice-gTtYM9:active{
     background-color: rgba(0,0,0,.3);
 }
+
+.tooltip.tooltip-black, .tooltip.tooltip-white {
+    background-color: #f99e1a;
+    color: #000000;
+    font-size: 0.75em;
+    opacity: 0.8;
+}
+
+.tooltip.tooltip-black.tooltip-right::after, .tooltip.tooltip-white.tooltip-right::after {
+    border-right-color: #f99e1a;
+    opacity: 0.8;
+    background: transparent;
+}
+
+.tooltip.tooltip-black.tooltip-top::after, .tooltip.tooltip-white.tooltip-top::after {
+    border-top-color: #f99e1a;
+    opacity: 0.8;
+    background: transparent;
+}

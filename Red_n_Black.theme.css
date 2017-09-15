@@ -3,7 +3,7 @@
 /* Background */
 
 .app {
-    background-image: url("https://i.imgur.com/P0k3VRY.jpg") !important;
+    background-image: url(https://i.imgur.com/P0k3VRY.jpg) !important;
     background-size: 1500px 900px;
     background-repeat: no-repeat;
 }
@@ -2923,4 +2923,16 @@ a:link {
 .contentHoveredVoice-3qGNKh:active, 
 .contentSelectedVoice-gTtYM9:active{
     background-color: rgba(0,0,0,.3);
+}
+
+.tooltip.tooltip-black, .tooltip.tooltip-white {
+    background-color: rgba(255, 98, 98, 0.7);
+}
+
+.tooltip.tooltip-black.tooltip-right::after, .tooltip.tooltip-white.tooltip-right::after {
+    border-right-color: rgba(255, 98, 98, 0.7);
+}
+
+.tooltip.tooltip-black.tooltip-top::after, .tooltip.tooltip-white.tooltip-top::after {
+    border-top-color: rgba(255, 98, 98, 0.7);
 }

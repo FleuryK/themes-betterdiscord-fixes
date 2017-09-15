@@ -16,7 +16,8 @@
 }
 
 .app {
-    background-image: url(https://imgur.com/QF8xNms.png) !important;
+    /* background-image: url(https://imgur.com/QF8xNms.png) !important; */
+    background-image: url(https://partage.fleuryk.tk/pictures/OverWatch/015.png) !important;
     background-size: cover !important;
 }
 
@@ -279,7 +280,7 @@ textarea {
     border:none;
 }
 
-.ui-tab-bar.SIDE {
+.side-2nYO0F {
     background:rgba(250,160,46,1);
 }
 
@@ -288,18 +289,20 @@ textarea {
     border-top: 1px solid #2F2526;
 }
 
-.ui-tab-bar .ui-tab-bar-item {
+.side-2nYO0F .itemDefault-3NDwnY, #bd-settings-sidebar .ui-tab-bar-item {
     color: #000000 !important;
     font-weight: bold !important;
 }
 
-.ui-tab-bar.SIDE .ui-tab-bar-item.selected, .ui-tab-bar.SIDE .ui-tab-bar-item:active {
+.side-2nYO0F .selected-eNoxEK, #bd-settings-sidebar .ui-tab-bar-item.selected {
     background-color: transparent;
     background: #ED7F10;
     border-left: 3px solid #7289da;
+    color: #000000;
+    font-weight: bold;
 }
 
-.ui-tab-bar.SIDE .ui-tab-bar-item:hover {
+.side-2nYO0F .itemDefault-3NDwnY:hover, #bd-settings-sidebar .ui-tab-bar-item:hover {
     background: #ED7F10;
 }
 
@@ -331,9 +334,8 @@ textarea {
     padding:5px 10px 5px 10px;
 }
 
-.ui-text-input .input[type=email],
-.ui-text-input .input[type=password],
-.ui-text-input .input[type=text] {
+.ui-form-item .inputDefault-Y_U37D[type=password],
+.ui-form-item .inputDefault-Y_U37D[type=text] {
     border-radius:3px;
     box-sizing: border-box;
     border:0px solid #232323 !important;
@@ -809,4 +811,23 @@ input:focus {
 
 .button-1aU9q1:hover {
     background: #ED7F10 no-repeat center;
+}
+
+.tooltip.tooltip-black, .tooltip.tooltip-white {
+    background-color: #ED7F10;
+    color: #000000;
+    font-size: 0.75em;
+    opacity: 0.8;
+}
+
+.tooltip.tooltip-black.tooltip-right::after, .tooltip.tooltip-white.tooltip-right::after {
+    border-right-color: #ED7F10;
+    opacity: 0.8;
+    background: transparent;
+}
+
+.tooltip.tooltip-black.tooltip-top::after, .tooltip.tooltip-white.tooltip-top::after {
+    border-top-color: #ED7F10;
+    opacity: 0.8;
+    background: transparent;
 }
