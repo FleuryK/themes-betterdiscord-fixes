@@ -28,7 +28,7 @@ A theme about a deviantart Sepisnake based on Dark Matter. File Updated for reas
 
 # Update on September 15th, 2017
 <b>Overwatch.theme.css</b> :<br />
-File updated because Discord have updated CSS file (tooltips).<br />
+File updated because Discord have updated CSS file (tooltips).<br /><br />
 <b>Cut_But_Deadly_Tracer.theme.css</b> :<br />
 File Updated for reason above.<br /><br />
 <b>Dark_Matter.theme.css</b> :<br />
