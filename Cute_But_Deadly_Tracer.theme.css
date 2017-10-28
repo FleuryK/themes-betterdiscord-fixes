@@ -3,14 +3,17 @@
 
 .app,
 .callout-backdrop {
-	background:url(https://i.imgur.com/Kp1xpQ8.jpg) !important;
-	background-size:cover !important;
+    background:url(https://i.imgur.com/Kp1xpQ8.jpg) !important;
+    background-size:cover !important;
 }
 .divider > span {
     background: none !important;
 }
 .divider > div {
     height: 2px !important;
+}
+.layer, .layers {
+    background: transparent !important;
 }
 /*
 li.selected, span >div.selected, section > div > div > div > div > div.selected, .friends-row:hover, li.channel-text:hover, div.channel.private:hover, .btn-friends:hover, .messages .markup pre code.hljs, .member:hover {
@@ -24,12 +27,12 @@ li.selected, span >div.selected, section > div > div > div > div > div.selected,
     background: transparent !important;
 }
 .scroller-wrap .scroller::-webkit-scrollbar-thumb {
-	border:3px solid rgba(255,255,255,0) !important;
-	background-color:rgba(0,0,0,0.3) !important;
+    border:3px solid rgba(255,255,255,0) !important;
+    background-color:rgba(0,0,0,0.3) !important;
 }
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
-	border:3px solid rgba(255,255,255,0) !important;
-	background-color:rgba(0,0,0,0.3) !important;
+    border:3px solid rgba(255,255,255,0) !important;
+    background-color:rgba(0,0,0,0.3) !important;
     visibility:hidden;
 }
 
@@ -78,21 +81,7 @@ li.selected, span >div.selected, section > div > div > div > div > div.selected,
 .channel-members .member .member-activity strong{
     color:#f99e1a;
 }
-.channels-wrap{
-background:transparent;
-background-image:url(https://i.imgur.com/JEU8Jd7.png);
-background-repeat:no-repeat !important;
-background-size:contain !important;
-background-position:center !important;
-}
 
-.channel-members-wrap{
-    background:transparent;
-    background-image:url(https://i.imgur.com/DDjatA8.png);
-    background-repeat:no-repeat !important;
-    background-size:contain !important;
-    background-position:center !important;
-}
 /*server members role names*/
 .theme-dark .channel-members h2{
     color:#f99e1a !important;
@@ -302,7 +291,7 @@ li.selected, span > div.selected, section > div > div > div > div > div.selected
 /*disconnect from chat button*/
 #voice-connection .btn:after{
 
-	-webkit-filter: brightness(50%) sepia(1) saturate(290%) brightness(120%);
+    -webkit-filter: brightness(50%) sepia(1) saturate(290%) brightness(120%);
     opacity:1;
 }
 
@@ -323,7 +312,7 @@ li.selected, span > div.selected, section > div > div > div > div > div.selected
         s 100+ (90-6)=184
         l 100+ (73-41)=132
     */
-	-webkit-filter: sepia(1) saturate(290%) brightness(120%);
+    -webkit-filter: sepia(1) saturate(290%) brightness(120%);
    
     opacity:1;
 
@@ -333,7 +322,7 @@ li.selected, span > div.selected, section > div > div > div > div > div.selected
 
 .account .btn-group > *:hover:after{
 
-	-webkit-filter: brightness(2);
+    -webkit-filter: brightness(2);
 
     
 
@@ -341,23 +330,23 @@ li.selected, span > div.selected, section > div > div > div > div > div.selected
 
 }
 .account .btn-settings:after{
-	-webkit-filter: brightness(50%) sepia(1) saturate(290%) brightness(120%);
+    -webkit-filter: brightness(50%) sepia(1) saturate(290%) brightness(120%);
 
 }
 /*user muted icon*/
 .guild-channels ul .channel-voice-states li .icon-muted{
-		-webkit-filter: sepia(1) saturate(290%) brightness(120%);
+        -webkit-filter: sepia(1) saturate(290%) brightness(120%);
 
 
 }
 /*user deafened icon*/
 .guild-channels ul .channel-voice-states li .icon-deafened{
-		-webkit-filter: sepia(1) saturate(290%) brightness(120%);
+        -webkit-filter: sepia(1) saturate(290%) brightness(120%);
 
 }
 /*channel locked icon */
 .guild-channels .icon-lock{
-		-webkit-filter: brightness(50%) sepia(1) saturate(290%) brightness(120%);
+        -webkit-filter: brightness(50%) sepia(1) saturate(290%) brightness(120%);
     opacity:1;
 }
 
@@ -494,4 +483,30 @@ li.selected, span > div.selected, section > div > div > div > div > div.selected
     border-top-color: #f99e1a;
     opacity: 0.8;
     background: transparent;
+}
+
+.container-2OU7Cz, .channels-3g2vYe, .theme-dark .chat form, .theme-dark .headerBar-cxbhPD, .theme-light .chat form, .theme-light .headerBar-cxbhPD {
+    background: transparent;
+}
+
+.channels-3g2vYe {
+   background-image:url(https://i.imgur.com/JEU8Jd7.png);
+   background-repeat:no-repeat !important;
+   background-size:contain !important;
+   background-position:center !important;
+}
+
+.channel-members {
+    background: transparent !important;
+}
+
+.channel-members-wrap {
+    background-image:url(https://i.imgur.com/DDjatA8.png);
+    background-repeat:no-repeat !important;
+    background-size:contain !important;
+    background-position:center !important;
+}
+
+.accountDetails-15i-_e {
+    color: #f99e1a;
 }
