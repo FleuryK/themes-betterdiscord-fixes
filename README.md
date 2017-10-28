@@ -40,4 +40,15 @@ A theme about Final Fantasy 15 based on Dark Matter. File Updated for reason abo
 <b>Sword_Art_Online.theme.css</b> :<br />
 A theme about Sword Art Online based on Dark Matter. File Updated for reason above.<br /><br />
 <b>Sepisnake.theme.css</b> :<br />
-A theme about a deviantart Sepisnake based on Dark Matter. File Updated for reason above.
+A theme about a deviantart Sepisnake based on Dark Matter. File Updated for reason above.<br /><br />
+
+# Update on October 28th, 2017 (Really on October 27th, 2017)
+Discord added the title bar. They themes is not compatible with us.<br />
+I updated they themes (only 1 is not updated yet) and it's works !<br /><br />
+Themes updated listed below :<br />
+- Overwatch.theme.css
+- Dark_Matter.theme.css
+- Red_n_Black.theme.css
+- Final_Fantasy_15.theme.css
+- Sword_Art_Online.theme.css
+- Sepisnake.theme.css
