@@ -1671,3 +1671,11 @@ textarea {
     opacity: 0.8;
     background: transparent;
 }
+
+.container-2OU7Cz, .channels-3g2vYe, .theme-dark .chat form, .theme-dark .headerBar-cxbhPD, .theme-light .chat form, .theme-light .headerBar-cxbhPD {
+    background: transparent;
+}
+
+.channels-3g2vYe {
+    background:rgba(0,0,0,0.7);
+}

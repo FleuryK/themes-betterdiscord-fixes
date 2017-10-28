@@ -2936,3 +2936,11 @@ a:link {
 .tooltip.tooltip-black.tooltip-top::after, .tooltip.tooltip-white.tooltip-top::after {
     border-top-color: rgba(255, 98, 98, 0.7);
 }
+
+.container-2OU7Cz, .channels-3g2vYe, .theme-dark .chat form, .theme-dark .headerBar-cxbhPD, .theme-light .chat form, .theme-light .headerBar-cxbhPD {
+    background: transparent;
+}
+
+.channels-3g2vYe {
+    background:rgba(0,0,0,0.75);
+}
