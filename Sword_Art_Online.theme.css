@@ -12,9 +12,7 @@
 /* Main background and settings background */
 .app,
 .callout-backdrop {
-	/*background:url(https://partage.fleuryk.tk/pictures/SAO/274.png) !important;*/
-	/*background:url(https://partage.fleuryk.tk/pictures/SAO/363.png) !important;*/
-	background:url(https://partage.fleuryk.tk/pictures/SAO/343.png) !important;
+	background:url(https://partage.fleuryk.tk/pictures/SAO/274.png) !important;
 	background-size:cover !important;
 }
 
