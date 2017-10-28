@@ -52,3 +52,4 @@ Themes updated listed below :<br />
 - Final_Fantasy_15.theme.css
 - Sword_Art_Online.theme.css
 - Sepisnake.theme.css
+- Cut_But_Deadly_Tracer.theme.css (EDIT at 1:02pm on October 28th, 2017. Finally all themes are updated !)
