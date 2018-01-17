@@ -52,4 +52,8 @@ Themes updated listed below :<br />
 - Final_Fantasy_15.theme.css
 - Sword_Art_Online.theme.css
 - Sepisnake.theme.css
-- Cut_But_Deadly_Tracer.theme.css (EDIT at 1:02pm on October 28th, 2017. Finally all themes are updated !)
+- Cut_But_Deadly_Tracer.theme.css (EDIT at 1:02pm on October 28th, 2017. Finally all themes are updated !)<br /><br />
+
+# Update on January 17th, 2018
+Discord have updated CSS file.<br />
+All themes (2 new !) have updated.
