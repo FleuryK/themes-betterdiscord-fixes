@@ -15,6 +15,10 @@
 .layer, .layers {
     background: transparent !important;
 }
+/* fix not having a background image anymore */
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+  background: transparent !important;
+}
 /*
 li.selected, span >div.selected, section > div > div > div > div > div.selected, .friends-row:hover, li.channel-text:hover, div.channel.private:hover, .btn-friends:hover, .messages .markup pre code.hljs, .member:hover {
     background: rgba(60, 60, 60, .2) !important;

@@ -28,6 +28,11 @@
     background: transparent !important;
 }
 
+/* fix not having a background image anymore */
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+  background: transparent !important;
+}
+
 /* Scrollbars */
 .scroller-wrap .scroller::-webkit-scrollbar-thumb {
     border:0px solid rgba(255,255,255,1) !important;
@@ -831,10 +836,10 @@ input:focus {
     background: transparent;
 }
 
-.container-2OU7Cz, .channels-3g2vYe, .theme-dark .chat form, .theme-dark .headerBar-cxbhPD, .theme-light .chat form, .theme-light .headerBar-cxbhPD {
+.container-2OU7Cz, .channels-3g2vYe, .theme-dark .chat form, .theme-light .chat form {
     background: transparent;
 }
 
-.channels-3g2vYe {
+.theme-dark .headerBar-cxbhPD, .theme-light .headerBar-cxbhPD, .channels-3g2vYe {
     background:rgba(0,0,0,0.55);
 }
