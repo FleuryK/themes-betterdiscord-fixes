@@ -16,13 +16,9 @@
 	background-size: 100% 100% !important;
 }
 
-.layer, .layers {
-	background: transparent !important;
-}
-
 /* fix not having a background image anymore */
-.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
-  background: transparent !important;
+.layer-3QrUeG, .layers-3iHuyZ, .container-2lgZY8, .typing-2GQL18 {
+	background: transparent !important;
 }
 
 /*
@@ -98,7 +94,7 @@ textarea {
 .content .flex-spacer { background:rgba(0,0,0,0.8) }
 
 /* User list area */
-.channel-members { background:rgba(0,0,0,0.9) !important }
+.channel-members, .members-1998pB { background:rgba(0,0,0,0.9) !important }
 
 /*
                                 _ _     _                   _   _             
@@ -1643,7 +1639,7 @@ textarea {
   background: transparent !important;
 }
 
-.container-RYiLUQ,
+.container-2lgZY8,
 .wrapper-2ldvyE,
 .private-channels .channel.selected a,
 .private-channels .channel:hover a
@@ -1676,10 +1672,10 @@ textarea {
     background: transparent;
 }
 
-.container-2OU7Cz, .channels-3g2vYe, .theme-dark .chat form, .theme-light .chat form {
-    background: transparent;
+.container-1UB9sr, .container-2Thooq, .container-PNkimc, .channels-3g2vYe, .theme-dark .chat form, .theme-light .chat form {
+    background: transparent !important;
 }
 
-.theme-dark .headerBar-cxbhPD, .theme-light .headerBar-cxbhPD, .channels-3g2vYe {
-    background:rgba(0,0,0,0.7);
+.theme-dark .headerBar-cxbhPD, .theme-light .headerBar-cxbhPD, .channels-Ie2l6A {
+    background:rgba(0,0,0,0.7) !important;
 }

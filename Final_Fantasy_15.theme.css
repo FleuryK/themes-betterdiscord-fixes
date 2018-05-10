@@ -16,13 +16,9 @@
 	background-size:cover !important;
 }
 
-.layer, .layers {
-	background: transparent !important;
-}
-
 /* fix not having a background image anymore */
-.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
-  background: transparent !important;
+.layer-3QrUeG, .layers-3iHuyZ, .container-2lgZY8, .typing-2GQL18 {
+	background: transparent !important;
 }
 
 /*
@@ -31,7 +27,6 @@
  / __/ _ \| '__/ _ \  / _ \ |/ _ \ '_ ` _ \ / _ \ '_ \| __/ __|
 | (_| (_) | | |  __/ |  __/ |  __/ | | | | |  __/ | | | |_\__ \
  \___\___/|_|  \___|  \___|_|\___|_| |_| |_|\___|_| |_|\__|___/
-
 */
 
 textarea {
@@ -58,7 +53,6 @@ textarea {
 | '_ \| |/ _` |/ _ \
 | | | | | (_| |  __/
 |_| |_|_|\__,_|\___|
-
 */
 
 .links,
@@ -98,7 +92,7 @@ textarea {
 .content .flex-spacer { background:rgba(0,0,0,0.8) }
 
 /* User list area */
-.channel-members { background:rgba(0,0,0,0.9) !important }
+.channel-members, .members-1998pB { background:rgba(0,0,0,0.9) !important }
 
 /*
                                 _ _     _                   _   _             
@@ -106,7 +100,6 @@ textarea {
 / __|/ _ \ '__\ \ / / _ \ '__| | | / __| __| / __|/ _ \/ __| __| |/ _ \| '_ \ 
 \__ \  __/ |   \ V /  __/ |    | | \__ \ |_  \__ \  __/ (__| |_| | (_) | | | |
 |___/\___|_|    \_/ \___|_|    |_|_|___/\__| |___/\___|\___|\__|_|\___/|_| |_|
-
 */ 
 
 .create-guild-container {
@@ -322,7 +315,6 @@ textarea {
  / __| '_ \ / _` | '_ \| '_ \ / _ \ / __| / __|/ _ \/ __| __| |/ _ \| '_ \ 
 | (__| | | | (_| | | | | | | |  __/ \__ \ \__ \  __/ (__| |_| | (_) | | | |
  \___|_| |_|\__,_|_| |_|_| |_|\___|_|___/ |___/\___|\___|\__|_|\___/|_| |_|
-
 */
 
 .btn-hamburger {
@@ -401,7 +393,6 @@ textarea {
  / __| '_ \ / _` | __| / __|/ _ \/ __| __| |/ _ \| '_ \ 
 | (__| | | | (_| | |_  \__ \  __/ (__| |_| | (_) | | | |
  \___|_| |_|\__,_|\__| |___/\___|\___|\__|_|\___/|_| |_|
-
 */
 
 .spinner-wandering-cubes .spinner-item {
@@ -729,7 +720,6 @@ textarea {
 | |_| '__| |/ _ \ '_ \ / _` / __| | | / __| __|
 |  _| |  | |  __/ | | | (_| \__ \ | | \__ \ |_ 
 |_| |_|  |_|\___|_| |_|\__,_|___/ |_|_|___/\__|
-
 */
 
 #friends .btn,
@@ -792,7 +782,6 @@ textarea {
 | | | / __|/ _ \ '__| | | / __| __| / __|/ _ \/ __| __| |/ _ \| '_ \ 
 | |_| \__ \  __/ |    | | \__ \ |_  \__ \  __/ (__| |_| | (_) | | | |
  \__,_|___/\___|_|    |_|_|___/\__| |___/\___|\___|\__|_|\___/|_| |_|
-
 */
 
 .channel-members .invite-btn {
@@ -938,7 +927,6 @@ textarea {
 | '_ ` _ \| | '_ \| | '_ ` _ \ / _` | | | '_ ` _ \ / _ \ / _` |/ _ \
 | | | | | | | | | | | | | | | | (_| | | | | | | | | (_) | (_| |  __/
 |_| |_| |_|_|_| |_|_|_| |_| |_|\__,_|_| |_| |_| |_|\___/ \__,_|\___|
-
 */
 
 /* SERVER LIST */
@@ -1554,7 +1542,6 @@ textarea {
 | |_) | |_| | |_) | | | (__  | |___| \__ \ |_ 
 | .__/ \__,_|_.__/|_|_|\___| |_____|_|___/\__|
 |_|                                           
-
 */
 
 #slist,
@@ -1643,7 +1630,7 @@ textarea {
   background: transparent !important;
 }
 
-.container-RYiLUQ,
+.container-2lgZY8,
 .wrapper-2ldvyE,
 .private-channels .channel.selected a,
 .private-channels .channel:hover a
@@ -1676,10 +1663,10 @@ textarea {
     background: transparent;
 }
 
-.container-2OU7Cz, .channels-3g2vYe, .theme-dark .chat form,  .theme-light .chat form {
-    background: transparent;
+.container-1UB9sr, .container-2Thooq, .container-PNkimc, .channels-3g2vYe, .theme-dark .chat form, .theme-light .chat form {
+    background: transparent !important;
 }
 
-.theme-dark .headerBar-cxbhPD, .theme-light .headerBar-cxbhPD, .channels-3g2vYe {
-    background:rgba(0,0,0,0.7);
+.theme-dark .headerBar-cxbhPD, .theme-light .headerBar-cxbhPD, .channels-Ie2l6A {
+    background:rgba(0,0,0,0.7) !important;
 }
