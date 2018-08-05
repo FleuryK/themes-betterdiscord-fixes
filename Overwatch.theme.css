@@ -849,3 +849,11 @@ input:focus {
 .theme-dark .headerBar-cxbhPD, .theme-light .headerBar-cxbhPD, .channels-Ie2l6A {
     background:rgba(0,0,0,0.55) !important;
 }
+
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .theme-dark .messagesWrapper-3lZDfY {
+    background: rgba(0,0,0,0.4);
+}
+
+.theme-dark .guildsWrapper-5TJh6A {
+    background: rgba(0,0,0,0.7) !important;
+}

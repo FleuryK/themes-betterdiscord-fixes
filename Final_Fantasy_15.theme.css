@@ -1663,10 +1663,22 @@ textarea {
     background: transparent;
 }
 
-.container-1UB9sr, .container-2Thooq, .container-PNkimc, .channels-3g2vYe, .theme-dark .chat form, .theme-light .chat form {
+.container-1UB9sr, .container-PNkimc, .channels-3g2vYe, .theme-dark .chat form, .theme-light .chat form {
     background: transparent !important;
+}
+
+.container-2Thooq {
+	background: rgba(32,34,37,.3);
 }
 
 .theme-dark .headerBar-cxbhPD, .theme-light .headerBar-cxbhPD, .channels-Ie2l6A {
     background:rgba(0,0,0,0.7) !important;
+}
+
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .theme-dark .messagesWrapper-3lZDfY {
+    background: rgba(0,0,0,0.4);
+}
+
+.theme-dark .guildsWrapper-5TJh6A {
+    background: rgba(0,0,0,0.7) !important;
 }
