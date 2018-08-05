@@ -67,7 +67,7 @@ Themes updated :<br />
 - LWTechGaming.theme.css
 - Overwatch.theme.css
 - Sepisnake.theme.css
-- Sword_Art_Online.theme.css
+- Sword_Art_Online.theme.css<br /><br />
 
 # Update on August 5th, 2018
 Discord have updated CSS file.<br />
@@ -78,4 +78,6 @@ Themes updated :<br />
 - LWTechGaming.theme.css
 - Overwatch.theme.css
 - Sepisnake.theme.css
-- Sword_Art_Online.theme.css
+- Sword_Art_Online.theme.css<br />
+And new theme :<br />
+- Spyro_The_Dragon.theme.css based on Dark Matter. Spyro The Dragon is a game released in the late 90s on PS1. Activision will be released in September 2018 on PS4 "Spyro Reignited Trilogy". So I have a theme especially for our favorite dragon that probably made our childhood. 
