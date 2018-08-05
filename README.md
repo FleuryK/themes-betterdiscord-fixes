@@ -68,3 +68,14 @@ Themes updated :<br />
 - Overwatch.theme.css
 - Sepisnake.theme.css
 - Sword_Art_Online.theme.css
+
+# Update on August 5th, 2018
+Discord have updated CSS file.<br />
+Only the theme Unturned.theme.css is not affected by this update.<br /><br />
+Themes updated :<br />
+- Dark_Matter.theme.css
+- Final_Fantasy_15.theme.css
+- LWTechGaming.theme.css
+- Overwatch.theme.css
+- Sepisnake.theme.css
+- Sword_Art_Online.theme.css
